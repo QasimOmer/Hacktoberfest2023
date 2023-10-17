@@ -1,6 +1,6 @@
-# Hacktoberfest 2023  `OPEN YOUR` Pull Request 🎉 
-![hacktoberfest2023](https://github.com/ossamamehmood/hacktoberfest/raw/main/.github/logo.png)
+# Hacktoberfest 2023 `OPEN YOUR` Pull Request 🎉
 
+![hacktoberfest2023](https://github.com/ossamamehmood/hacktoberfest/raw/main/.github/logo.png)
 
 ## This Project Is Perfect For Your Pull Request
 
@@ -74,7 +74,15 @@ If you have any questions, please check our [FAQs](Faqs.md) for answers.
     <sub><b>Abdul Rehman</b></sub>
   </a>
 </td>
-
+  <td>  
+  <a href="https://github.com/QasimOmer">
+    <kbd>
+      <img src="https://avatars3.githubusercontent.com/QasimOmer?size=100" width="100px;" alt=""/>
+    </kbd>
+    <br />
+    <sub><b>Muhammad Qasim Omer</b></sub>
+  </a>
+</td>
   <td>  
   <a href="https://github.com/mohitsaini07">
     <kbd>
